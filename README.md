@@ -5,8 +5,7 @@ A Página de Destino é um modelo genérico de página de destino de código abe
 ## Primeiros Passos
 
 Escolha uma das seguintes opções para começar:
-* [Baixe a última versão](https://github.com/KevynMurilo/Template-LandingPage.zip)
-* Clone o repositório: `https://github.com/KevynMurilo/Template-LandingPage.zip`
+* Clone o repositório: `https://github.com/KevynMurilo/Template-LandingPage.git`
 * Faça um fork do repositório
 
 ## Usando o Modelo
