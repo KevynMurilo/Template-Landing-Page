@@ -13,7 +13,6 @@ Escolha uma das seguintes opções para começar:
 O modelo é apenas um arquivo HTML que utiliza um arquivo completo do Tailwind CSS.
 
 Para aproveitar ao máximo o Tailwind CSS, é necessário personalizá-lo realmente.
-Dê uma olhada em nosso [guia de configuração](https://www.tailwindtoolbox.com/setup) para começar a ajustar!
 
 ## Atribuição de Imagem
 
